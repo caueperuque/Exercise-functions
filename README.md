@@ -6,4 +6,4 @@
 
 <h2>Oque é esse projeto :thinking:</h2>
 <p>Realizei exercícios com JS, sobre funções. Onde cada função é um exercício em específico</p>
-<p>Criado em 11/02/2023 :upside_down_face:</p>
+<p>Criado em 24/01/2023 :upside_down_face:</p>
